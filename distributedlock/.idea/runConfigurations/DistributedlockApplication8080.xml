@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DistributedlockApplication8080" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <module name="distributedlock" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.DistributedlockApplication" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=8080  -Xms1024M -Xmx1024M -XX:MetaspaceSize=256M -XX:MaxMetaspaceSize=256M" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

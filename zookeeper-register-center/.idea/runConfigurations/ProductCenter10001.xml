@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ProductCenter10001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <module name="product-center" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.productcenter.ProductCenterApplication" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=10001" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
